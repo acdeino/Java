@@ -8,4 +8,4 @@ public class hellojavaframe {
     frame.setSize( 300, 300 );
     frame.setVisible( true );
   }
-} 
+}
